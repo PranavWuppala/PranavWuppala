@@ -55,7 +55,3 @@ My work has taken me from cloning a voice for $5, to mapping thousands of expose
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pranavwuppala/)
 
 ---
-
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavWuppala&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavWuppala&layout=compact&theme=dark&hide_border=true)
