@@ -1,50 +1,61 @@
-Pranav Wuppala
+# Hi, I'm Pranav 👋
 
- About me
+I get curious about how things work and end up somewhere I didn't expect.
 
-I'm a student in India, currently preparing for my NIOS 12th boards and planning to start the IIT Madras BS in Data Science after that. I spend most of my free time learning Python, building small tools, and figuring out how AI and data can be used for things I actually care about — mostly investigative work around financial crime, scams, and how money moves.
+I'm 18, based in Hyderabad. I write about technology, privacy, money, and the systems that shape everyday life — explained in plain language. I also build the tools I use to investigate, and put them here.
 
-I'd rather ship a few honest end-to-end projects than pretend I know more than I do.
+My work has taken me from cloning a voice for $5, to mapping thousands of exposed cameras on the public internet, to scanning popular apps for hidden permissions most people never think about.
 
- What I'm working on
+---
 
-- **Voice cloning pipeline** *(first serious project)* — automated audio preprocessing + cloning using Fish Audio S2 Pro, Demucs for voice separation, yt-dlp for sourcing reference audio, and a Python pipeline that ties it together. Runs on remote GPU instances.
-- **Spam / scam detection** *(planned)* — a small classifier and rule-based system for SMS and call patterns common in India. Starting with a clean public dataset and iterating from there.
-- **OSINT helper scripts** *(planned)* — small Python tools for digging into public records, company filings, and similar sources. Nothing fancy, just things that save time on repetitive lookups.
-- **Data stories** *(planned)* — short write-ups where I take a public dataset, ask one specific question, and try to answer it honestly. Focused on financial crime, scams, and consumer-facing fraud.
+## 🛠️ What I work with
 
- Skills & tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Languages**
-- Python (main)
-- Bash / shell scripting
+---
 
-**Areas I'm comfortable in**
-- Basic ML and data wrangling
-- Working with messy real-world data (audio, scraped text, simple survey data)
-- Scripting and automation
-- API integration
-- Linux / remote server work (SSH, systemd, GPU instances)
-- Git / GitHub workflow
+## ✍️ Writing
 
-**Tools I use regularly**
-- NumPy, SciPy, pandas
-- pydub, Demucs, yt-dlp, ffmpeg
-- Linux, git
+| Article | About |
+|---|---|
+| [I Cloned a Voice in My Bedroom]([your-medium-link](https://medium.com/@PranavWuppala/i-cloned-a-voice-with-just-a-laptop-wi-fi-and-5-thats-the-problem-86035b2f1313)) | Cloned a voice for $5 in under a day — here's why that's a problem |
 
-I only add tools here after I've actually used them on a project.
 
- What I'm aiming for
+---
 
-- Combining AI and data work with investigative journalism, especially around financial crime, scams, and consumer fraud in India.
-- Building small end-to-end projects instead of half-finished experiments — things a non-technical reader can actually use or read.
-- Getting fluent enough with data that I can write clear, honest stories backed by it.
-- Freelancing on the side and building in public as I learn — sharing scripts, mistakes, and notes.
-- Eventually doing serious investigative + data work that holds up to scrutiny.
+## 🔧 Projects
 
-## Contact
+| Repo | What it does |
+|---|---|
+| [apk-scanner](https://github.com/PranavWuppala/apk-scanner) | Scans Android APKs for suspicious permissions, cross-references privacy policies |
+| [cctv-scan](https://github.com/PranavWuppala/cctv-scan) | Maps publicly exposed CCTV devices using internet scanning APIs |
 
-- Email: Pranav.wuppala@gmail.com
-- Blog / writing: *(coming soon)*
-- Portfolio: *(coming soon)*
-- Other: *(add later)*
+
+---
+
+## 📚 Currently exploring
+
+- On-chain financial crime investigation (Arkham, OFAC sanctions)
+- Android app security research
+- Open source OSINT tooling
+
+---
+
+## 🔗 Find me
+
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@PranavWuppala)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@pranavwuppala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-wuppala)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/PranavWuppala)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pranavwuppala/)
+
+---
+
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavWuppala&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavWuppala&layout=compact&theme=dark&hide_border=true)
