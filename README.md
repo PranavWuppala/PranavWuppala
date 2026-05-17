@@ -38,7 +38,7 @@ Currently building MathLCM — a Large Concept Model for mathematical reasoning.
 | Article | About |
 |---|---|
 | [I Cloned a Voice in My Bedroom](https://medium.com/@PranavWuppala/i-cloned-a-voice-with-just-a-laptop-wi-fi-and-5-thats-the-problem-86035b2f1313) | Cloned a voice for $5 in under a day — here's why that's a problem |
-| | [Somebody, Somewhere, Might Be Watching You](https://medium.com/@PranavWuppala/somebody-somewhere-might-be-watching-you-using-tech-you-paid-for-6d1e00174523) | How thousands of cameras are publicly exposed on the internet || How thousands of cameras are publicly exposed on the internet |
+| [Somebody, Somewhere, Might Be Watching You](https://medium.com/@PranavWuppala/somebody-somewhere-might-be-watching-you-using-tech-you-paid-for-6d1e00174523) | How thousands of cameras are publicly exposed on the internet || How thousands of cameras are publicly exposed on the internet |
 
 ---
 
